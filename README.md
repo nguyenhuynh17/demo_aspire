@@ -25,5 +25,5 @@
 
 **Update testng.xml file if user wants to run testing on multi browsers:**
 1. Open testng.xml file
-2. Uncomment `<test></test>`: for example(*<test name="TestOnFirefox">*)
+2. Uncomment `<test></test>`: for example(*test name="TestOnFirefox"*)
 3. Run testng.xml file
