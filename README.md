@@ -11,8 +11,9 @@
 
 
 ## From root project folder ##
-Create folder path main/resources/
-Add ".CREDENTIALS.json" to folder path main/resources/
+Create folder path src/main/resources/
+
+Add ".CREDENTIALS.json" to folder path src/main/resources/
 
 **File ".CREDENTIALS.json" format:**
 ```
