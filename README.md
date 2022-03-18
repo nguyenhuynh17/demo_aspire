@@ -11,11 +11,11 @@
 
 
 ## From root project folder ##
-Create folder path src/main/resources/
+1. Create folder path src/main/resources/
 
-Add ".CREDENTIALS.json" to folder path src/main/resources/
+2. Add ".CREDENTIALS.json" to folder path src/main/resources/
 
-**File ".CREDENTIALS.json" format:**
+3. **File ".CREDENTIALS.json" format:**
 ```
 {
     "email": "<valid_email>",
