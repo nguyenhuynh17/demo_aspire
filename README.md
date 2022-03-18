@@ -10,6 +10,9 @@
 3. Update testng.xml file if user wants to run testing on multi browsers
 
 
+## From root project folder ##
+Create folder path main/resources/
+Add ".CREDENTIALS.json" to folder path main/resources/
 
 **File ".CREDENTIALS.json" format:**
 ```
