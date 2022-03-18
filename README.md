@@ -19,7 +19,7 @@
 ```
 {
     "email": "<valid_email>",
-    "password": "<valid_password"
+    "password": "<valid_password>"
 }
 ```
 
